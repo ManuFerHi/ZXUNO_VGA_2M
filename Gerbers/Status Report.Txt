@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Zx-Uno_2M.PrjPCB]
+   Generated File[PCBUNO_2m.GTL]
+   Generated File[PCBUNO_2m.GBL]
+   Generated File[PCBUNO_2m.GPB]
+   Generated File[PCBUNO_2m.GPT]
+   Generated File[PCBUNO_2m.GTO]
+   Generated File[PCBUNO_2m.GTP]
+   Generated File[PCBUNO_2m.GTS]
+   Generated File[PCBUNO_2m.GBS]
+   Generated File[PCBUNO_2m.GBP]
+   Generated File[PCBUNO_2m.GBO]
+   Generated File[PCBUNO_2m.GM1]
+   Generated File[PCBUNO_2m.GKO]
+   Generated File[PCBUNO_2m.RUL]
+   Generated File[PCBUNO_2m.EXTREP]
+   Generated File[PCBUNO_2m.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 14:39:54 On 13/02/2017

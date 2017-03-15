@@ -1,0 +1,19 @@
+Core1 - Spectrum
+Core2 - PC/XT 2Mb VGA
+Core3 - Sam Coupe
+Core4 - MSX
+Core5 - C64
+Core6 - Master System
+Core7 - NES VGA
+Core8 - AtariXL
+Core9 - Jupiter Ace
+Core10- Oric Atmos
+Core11- BBC Micro
+Core12- VIC20
+Core13- Acorn Electron
+Core14 - TBBlue
+Core15 - Colecovision
+Core16 - Atari2600
+Core17 - Apple II
+Core18 - Acorn Atom
+

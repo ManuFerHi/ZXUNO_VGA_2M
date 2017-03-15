@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCBUNO_2m.PcbDoc   13/02/2017  14:39:34
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCBUNO_2m-RoundHoles.TXT
+ASCII SlotHoles File : PCBUNO_2m-SlotHoles.TXT
+EIA File   : PCBUNO_2m.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          105              517.96 mm (20.39 Inch)
+T2        0.3mm (11.811mil)        Round          9                47.14 mm (1.86 Inch)
+T3        0.5mm (19.685mil)        Slot           2                7669.07 mm (301.93 Inch)
+T4        0.65mm (25.591mil)       Round          6                6.27 mm (0.25 Inch)
+T5        0.65mm (25.591mil)       Slot           2                7663.84 mm (301.73 Inch)
+T6        0.8mm (31.496mil)        Slot           13               7800.49 mm (307.11 Inch)
+T7        0.889mm (35mil)          Round          6                11.68 mm (0.46 Inch)
+T8        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
+T9        1mm (39.37mil)           Round          21               139.76 mm (5.50 Inch)
+T10       1.09mm (42.913mil)       Round          18               79.87 mm (3.14 Inch)
+T11       1.3mm (51.181mil)        Round          18               267.82 mm (10.54 Inch)
+T12       2.3114mm (91mil)         Round          3                13.61 mm (0.54 Inch)
+T13       3.048mm (120mil)         Round          1                0.00 mm (0.00 Inch)
+T14       3.1mm (122.047mil)       Round          1                0.00 mm (0.00 Inch)
+T15       3.26mm (128.346mil)      Round          4                56.99 mm (2.24 Inch)
+T16       3mm (118.11mil)          Round          4         NPTH   279.11 mm (10.99 Inch)
+---------------------------------------------------------------------------
+Totals                                            215              24556.16 mm (966.78 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
