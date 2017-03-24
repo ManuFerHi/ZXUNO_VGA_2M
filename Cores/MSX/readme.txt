@@ -1,3 +1,9 @@
+Autor Fabio.
+
+25/03/2017
+
+Add VGA video output.
+
 I made a MSX1 core, with a SCC Megaram from OCM. Specifications:
 
 - MSX1 USA, 60Hz vertical frequency.
