@@ -1,0 +1,3 @@
+Para instalar un core o reemplazar versión, descargar el fichero CORE(X).ZX1 y renombrar X=SLOT que ocupa en vuestro Zx-Uno, colocar en el directorio raiz y seleccionar en bios menú update el slot dónde alojar el core.
+
+To install a core or replace version, download the file CORE (X) .ZX1 and rename X = SLOT that occupies in your Zx-Uno, place in the root directory and select in bios menu update the slot where to host the core.
