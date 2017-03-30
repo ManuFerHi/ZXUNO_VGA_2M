@@ -10,5 +10,6 @@ FPGA BOARD based on ZX-UNO project, this version include 2Mb SRAM, W25Q128 Flash
 [![ScreenShot](https://s19.postimg.org/hzy2qzjjn/Captura.png)](https://youtu.be/28F_K5LQUUY)
 
 
+For more information, contact with manuferhi@gmail.com
 
 (CC BY-SA)License.
