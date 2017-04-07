@@ -1,0 +1,25 @@
+Características comunes a todos los cores:
+------------------------------------------
+
+- 2 modos de vídeo seleccionables: RGB (PAL60Hz) y VGA 60Hz (conmutable con tecla Bloq. Despl / Scroll Lock)
+
+- Soporte de scanlines en VGA (conmutable con la tecla "-" del teclado numérico)
+
+- Autodetección del modo de vídeo de la BIOS del ZX-UNO.
+
+- Reset de la máquina (pulsando F12)
+
+- Añadido Master Reset para volver al core de Spectrum (con Ctrl+Alt+Backspace)
+
+- Controles de jugador tanto en teclado como en joystick:
+
+ ** Las direcciones en el teclado son, tanto los cursores como QAOP. Disparos 1 y 2 en teclas Z y X. También comparten dichas teclas en algunos casos la inserción de moneda y el boton Start. Lo mismo para el joystick. Es necesario un joystick o pad de 2 botones. Dependiendo de cada juego el mapeo de estas funciones puede estar intercambiado (para evitar meter monedas cuando disparas, etc, ya que cada juego lo hace diferente).
+
+- Implementada conmutación opcional para el giro de 90º en las direcciones de los controles (pulsando la tecla TAB). Por defecto arrancan con los controles normales, para el uso de pantallas verticales. Si tienes la pantalla en horizontal (lo más habitual), la imagen se ve girada, pero para ayudar en el control, y que sea más natural y acorde con lo que se ve, pulsando TAB se consigue que las direcciones arriba-abajo estén intercambiadas con izquierda-derecha. Afecta por igual al joystick y al teclado.
+
+
+COMO GRABAR LOS CORES EN EL ZX-UNO:
+-----------------------------------
+Para grabar los cores en el ZX-UNO, renombrar cada archivo .ZX1 a COREx.ZX1, siendo "x" el numero de slot que queremos que ocupe en la memoria flash del ZX-UNO. Copiar a la tarjeta SD, encender el ZX-UNO, pulsar F2 al arranque para entrar en BIOS, ir a la pestaña Upgrade y seleccionar el slot correspondiente, elegir grabar desde SD y al finalizar escribir el nombre del core.
+
+Para lanzar el core una vez grabado, al arranque del Zx-UNO, pulsar Bloq. Mays (Caps Lock) y elegirlo de la lista que sale.
