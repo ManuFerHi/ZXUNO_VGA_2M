@@ -18,10 +18,11 @@ Core17 - Apple II
 Core18 - Acorn Atom
 Core19 - Amdstrad CPC
 Core20 - ZX Spectrum KYP
-Core21 - Scramble
+Core21 - C16
 Core22 - frogger
 Core23 - galaxian
 Core24 - invaders
 Core25 - Pacman
 Core26 - Phoenix
+Core27 - Scramble
 
