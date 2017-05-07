@@ -5,5 +5,6 @@ All credits go to Ben.
 Ben's Blog: http://fpga-hacks.blogspot.com.es/
 
 Ported to ZX-UNO by Quest of ZX-UNO team (http://www.zxuno.com)
+2 joy supported.
 
 As per original author's request, and following the ZX-UNO open source rules, every source code change, addition, improvement, etc, is available freely at ZX-UNO SVN repository
